@@ -256,7 +256,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `usuario`, `nombre`, `clave`, `estado`) VALUES
-(1, 'admin', 'Angel sifuentes', SHA2('admin12345', 256), 1),
+(1, 'admin', 'Angel sifuentes', SHA2('12345', 256), 1),
 (2, 'angel', 'Vida Informatico', '519ba91a5a5b4afb9dc66f8805ce8c442b6576316c19c6896af2fa9bda6aff71', 1);
 
 --

@@ -1,5 +1,5 @@
 <?php
-const base_url = "http://localhost/biblio/";
+const base_url = "https://biblioteca.luis.local/";
 const host = "192.168.3.208";
 const user = "userdbbiblioteca";
 const pass = "paso";
